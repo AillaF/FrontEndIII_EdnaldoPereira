@@ -1,0 +1,4 @@
+.grid-item iframe {
+    display: grid;
+    width: 100%;
+}
